@@ -21,6 +21,16 @@
 #### 인구 1000명당 지역별 출생아 그래프
 ![image](https://user-images.githubusercontent.com/55008408/114946691-a1113d80-9e86-11eb-967f-5cad21b62d8a.png)
 
+#### OECD 10개국 출산율 비교
+![image](https://user-images.githubusercontent.com/55008408/114947094-75db1e00-9e87-11eb-863a-0ce5299e3e21.png)
+
+#### OECD 10개국 출산율 비교 (강조)
+![image](https://user-images.githubusercontent.com/55008408/114947070-6b208900-9e87-11eb-88e3-8c9b2bd9d8d6.png)
+
+#### OECD 국가 합계 출산율
+![image](https://user-images.githubusercontent.com/55008408/114947201-a91dad00-9e87-11eb-83d0-5df4309fc4c1.png)
+
+
 
 <hr>
 
